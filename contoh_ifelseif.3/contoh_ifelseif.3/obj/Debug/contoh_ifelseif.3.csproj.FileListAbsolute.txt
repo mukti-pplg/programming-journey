@@ -1,0 +1,7 @@
+D:\C Sharp\X PPLG 1\contoh_ifelseif.3\contoh_ifelseif.3\bin\Debug\contoh_ifelseif.3.exe.config
+D:\C Sharp\X PPLG 1\contoh_ifelseif.3\contoh_ifelseif.3\bin\Debug\contoh_ifelseif.3.exe
+D:\C Sharp\X PPLG 1\contoh_ifelseif.3\contoh_ifelseif.3\bin\Debug\contoh_ifelseif.3.pdb
+D:\C Sharp\X PPLG 1\contoh_ifelseif.3\contoh_ifelseif.3\obj\Debug\contoh_ifelseif.3.csproj.AssemblyReference.cache
+D:\C Sharp\X PPLG 1\contoh_ifelseif.3\contoh_ifelseif.3\obj\Debug\contoh_ifelseif.3.csproj.CoreCompileInputs.cache
+D:\C Sharp\X PPLG 1\contoh_ifelseif.3\contoh_ifelseif.3\obj\Debug\contoh_ifelseif.3.exe
+D:\C Sharp\X PPLG 1\contoh_ifelseif.3\contoh_ifelseif.3\obj\Debug\contoh_ifelseif.3.pdb
